@@ -1,3 +1,4 @@
 # This are the requirements for the notebook
 pandas
 matplotlib
+xlrd
